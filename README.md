@@ -49,10 +49,10 @@ This is hardcore WIP territory. So far command decoding and proceessing, a simpl
 
 ### Roadmap:
 
-Better code organization (multiple files, at least)
-Sprite texture and tile-map support
-Built-in text-rendering tileset with extras for making roguelikes look nice
-Sound
-Joystick support
-Client program control over window size
-State dump/load support
+- Better code organization (multiple files, at least)
+- Sprite texture and tile-map support
+- Built-in text-rendering tileset with extras for making roguelikes look nice
+- Sound
+- Joystick support
+- Client program control over window size
+- State dump/load support
